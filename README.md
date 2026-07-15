@@ -2,7 +2,7 @@
 
 **Data Scientist & MLOps**
 
-Je travaille sur des projets de Deep Learning appliqués au domaine médical,
+Je travaille sur des projets de machine et Deep Learning appliqués au domaine médical, mais plus largement sur de vrais solutions metiers (finance, e-commerce...)
 avec une attention particulière à la robustesse des pipelines et à la mise en production.
 
 ---
@@ -32,13 +32,13 @@ avec une attention particulière à la robustesse des pipelines et à la mise en
 > FAQ d'intégration via RAG, et analyse de données JSON directement dans le chat.
 
 **Infrastructure** : OVH VPS Ubuntu 24.04 · bot.huch.tech  
-**RAG** : 319 chunks indexés · Faithfulness RAGAS 87%
+**RAG** : 319 chunks indexés · Faithfulness RAGAS 
 
 | Couche | Technologies |
 |---|---|
 | Bot | python-telegram-bot 21.6 · Webhook HTTPS |
-| LLM | Mistral AI — mistral-small-latest |
-| RAG | ChromaDB · intfloat/multilingual-e5-small |
+| LLM | Mistral AI |
+| RAG | ChromaDB · |
 | Admin UI | Streamlit · RAGAS 0.1.21 |
 | Infra | Nginx · systemd · OVH VPS |
 
