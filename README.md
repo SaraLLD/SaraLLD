@@ -28,10 +28,10 @@ avec une attention particulière à la robustesse des pipelines et à la mise en
 
 ## 🤖 Projet 2 — CaptainHuch (Bot Telegram open banking)
 
-> Assistant Telegram pour marchands Huch : consultation de transactions en langage naturel,
+> Assistant Telegram pour marchands d'un client de la fintech: consultation de transactions en langage naturel,
 > FAQ d'intégration via RAG, et analyse de données JSON directement dans le chat.
 
-**Infrastructure** : OVH VPS Ubuntu 24.04 · bot.huch.tech  
+**Infrastructure** : OVH VPS Ubuntu 24.04 
 **RAG** : 319 chunks indexés · Faithfulness RAGAS 
 
 | Couche | Technologies |
