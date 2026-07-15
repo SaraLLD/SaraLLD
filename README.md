@@ -13,7 +13,7 @@ avec une attention particulière à la robustesse des pipelines et à la mise en
 > en aide au diagnostic clinique.
 
 **Dataset** : Mendeley PBC — 17 092 images · 8 classes  
-**Modèle déployé** : DenseNet-121 · Cross-validation 5 folds · ~97% accuracy
+**Modèle déployé** : DenseNet-121 · Cross-validation 5 folds · ~99% accuracy
 
 | Couche | Technologies |
 |---|---|
