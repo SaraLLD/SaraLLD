@@ -9,6 +9,8 @@ avec une attention particulière à la robustesse des pipelines et à la mise en
 
 ## 🔬 Projet 1 — Classification de cellules sanguines
 
+🔒 *Repo privé*
+
 > Classification automatique de 8 types de cellules sanguines à partir d'images microscopiques,
 > en aide au diagnostic clinique.
 
@@ -28,6 +30,8 @@ avec une attention particulière à la robustesse des pipelines et à la mise en
 
 ## 🤖 Projet 2 — Bot Telegram open banking
 
+🔒 *Repo privé*
+
 > Assistant Telegram pour marchands d'un client de la fintech: consultation de transactions en langage naturel,
 > FAQ d'intégration via RAG, et analyse de données JSON directement dans le chat.
 
@@ -45,6 +49,8 @@ avec une attention particulière à la robustesse des pipelines et à la mise en
 ---
 
 ## 🏥 Projet 3 — RegBot Santé
+
+🔒 *Repo privé*
 
 > Assistant IA gratuit qui répond aux questions réglementaires santé (essais cliniques, AMM,
 > vigilance, RGPD) en s'appuyant exclusivement sur les FAQ et textes officiels de l'EMA, l'ANSM,
