@@ -44,6 +44,25 @@ avec une attention particulière à la robustesse des pipelines et à la mise en
 
 ---
 
+## 🏥 Projet 3 — RegBot Santé
+
+> Assistant IA gratuit qui répond aux questions réglementaires santé (essais cliniques, AMM,
+> vigilance, RGPD) en s'appuyant exclusivement sur les FAQ et textes officiels de l'EMA, l'ANSM,
+> la DGOS, la CNIL, le CTIS et le Code de la santé publique, avec citation systématique des sources.
+
+**Démo** : https://regbot-sante.streamlit.app
+**RAG** : retriever hybride BM25 + FAISS · ~5 000 chunks indexés · 6 sources réglementaires
+
+| Couche | Technologies |
+|---|---|
+| LLM | Groq (`llama-3.3-70b`) · bascule automatique multi-modèles sur quota |
+| RAG | LangChain · FAISS · BM25 (rank_bm25) · sentence-transformers |
+| Interface | Streamlit · zone admin (monitoring, feedback, RAGAs) |
+| Qualité | RAGAs (fidélité, pertinence, précision du contexte) |
+| Déploiement | Streamlit Community Cloud |
+
+---
+
 ## 🛠️ Compétences
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -56,6 +75,8 @@ avec une attention particulière à la robustesse des pipelines et à la mise en
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF7000?style=flat&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
